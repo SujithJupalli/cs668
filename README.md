@@ -27,6 +27,8 @@ Sai Sujith Reddy / Jupalli
  * Model Evaluation:
       * Both SARIMAX and LSTM models are evaluated to determine predictive accuracy. By comparing their performance, the study identifies which approach is more 
         effective for forecasting air quality in urban environments.
+* **Code**:
+        https://github.com/SujithJupalli/cs668/blob/cc915c4a613e8e18528ef919dfc17d6f51765b19/Capstone_Sujith_NY_AirQuality_analysis.ipynb
 * **Results**:
 
      * CO, NOx, and Benzene show a maximum in the coldest months of the year, clearly evidencing the contribution of heating activities and typical conditions of atmospheric stability in urban areas. The correlation study points to an inverse relation of temperature with pollution levels, while the variation in humidity has mixed effects many times favorable to pollutant dispersion. Predictive modeling by SARIMAX and LSTM showed that historical data could reliably forecast the future air quality indices, capturing the seasonal pattern and complex temporal dependencies. The SARIMAX model and LSTM model Combined, these give a full understanding of the dynamics in urban air quality and its possible implications for public health.​
