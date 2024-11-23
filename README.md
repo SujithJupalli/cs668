@@ -3,6 +3,8 @@ Sai Sujith Reddy / Jupalli
 
 * This work was realized as part of the capstone project of the MS in Data Science at Pace University
 * **Abstract**:
+* This study investigates (1) the seasonal and environmental factors influencing air quality in New York City from 2004 to 2005. Using the AirQualityUCI dataset with 9,357 hourly records, (2) time-series models (SARIMAX and LSTM) analyzed pollutant levels and their relationships with temperature and humidity. Results indicated (3) higher pollution levels in colder months due to increased heating and limited atmospheric dispersion, alongside predictive models accurately forecasting air quality indices.
+
 * **Dataset**:
    * Measurements of different air pollutants and weather parameters including temperature. The measurements were recorded every hour and were obtained from AirQualityUCI dataset.
    * A few important aspects are:
@@ -33,6 +35,8 @@ Sai Sujith Reddy / Jupalli
 
      * CO, NOx, and Benzene show a maximum in the coldest months of the year, clearly evidencing the contribution of heating activities and typical conditions of atmospheric stability in urban areas. The correlation study points to an inverse relation of temperature with pollution levels, while the variation in humidity has mixed effects many times favorable to pollutant dispersion. Predictive modeling by SARIMAX and LSTM showed that historical data could reliably forecast the future air quality indices, capturing the seasonal pattern and complex temporal dependencies. The SARIMAX model and LSTM model Combined, these give a full understanding of the dynamics in urban air quality and its possible implications for public health.​
 * **Poster**:
-* ![image](https://github.com/user-attachments/assets/b698ab40-e8f8-4c87-9ff0-4b59cd2de197)
+* ![Poster jpeg](https://github.com/user-attachments/assets/044ea9d4-eb57-4609-a40b-029ce7e7279a)
+
+
 
 
